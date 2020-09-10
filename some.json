@@ -10,7 +10,7 @@
       "numberOfUsers": 2000
     },
     "localizedMessages": {
-      "en-US": {
+      "en": {
         "title": "title",
         "description": "descr",
         "actionText": "Download",
