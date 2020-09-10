@@ -1,6 +1,26 @@
 [
   {
-    "id": "123",
+    "id": "125",
+    "conditions": {
+      "audience": "all",
+      "displayDate": "> 2020-03-01T00:00:00Z",
+      "serverConfig": {
+        "PluginSettings.Test": true
+      },
+      "numberOfUsers": 1
+    },
+    "localizedMessages": {
+      "en": {
+        "title": "title",
+        "actionText": "Download",
+        "actionParam": "http://download.com/path",
+        "description": "your eyes only! [test](https://test.com)",
+        "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png"
+      }
+    }
+  },
+{
+    "id": "126",
     "conditions": {
       "audience": "all",
       "displayDate": "> 2020-03-01T00:00:00Z",
@@ -13,21 +33,6 @@
       "en": {
         "title": "title",
         "description": "descr",
-        "actionText": "Download",
-        "actionParam": "http://download.com/path"
-      }
-    }
-  },
-  {
-    "id": "124",
-    "conditions": {
-      "audience": "sysadmin"
-    },
-    "localizedMessages": {
-      "en": {
-        "title": "for sysadmin",
-        "description": "your eyes only! [test](https://test.com)",
-        "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
       }
