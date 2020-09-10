@@ -4,9 +4,6 @@
     "conditions": {
       "audience": "all",
       "displayDate": "> 2020-03-01T00:00:00Z",
-      "serverConfig": {
-        "PluginSettings.Test": true
-      },
       "numberOfUsers": 1
     },
     "localizedMessages": {
@@ -24,9 +21,6 @@
     "conditions": {
       "audience": "all",
       "displayDate": "> 2020-03-01T00:00:00Z",
-      "serverConfig": {
-        "PluginSettings.Test": true
-      },
       "numberOfUsers": 1
     },
     "localizedMessages": {
